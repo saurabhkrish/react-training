@@ -1,0 +1,13 @@
+h2 {
+    color: green;
+}
+h3{
+    color: blue;
+}
+.body{
+    color: aqua;
+    background-color: blueviolet;
+}
+.page1 {
+    border: 1px solid red;
+}
